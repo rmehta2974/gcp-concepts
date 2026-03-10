@@ -35,6 +35,7 @@ Comprehensive documentation for Google Cloud Platform design, security, and oper
 | Document | Description |
 |----------|-------------|
 | [10-gke-versions-offerings.md](./10-gke-versions-offerings.md) | GKE versions, Autopilot vs Standard, regional vs zonal |
+| [22-gke-detailed.md](./22-gke-detailed.md) | GKE private/public, scalability, upgrades, release channels |
 | [11-gke-security-zerotrust.md](./11-gke-security-zerotrust.md) | GKE security, binary authorization, zero trust |
 | [12-gke-ingress-service-mesh.md](./12-gke-ingress-service-mesh.md) | Multitenant ingress, service mesh designs |
 | [13-gke-tracing-observability.md](./13-gke-tracing-observability.md) | Tracing, observability, binary authorization |
